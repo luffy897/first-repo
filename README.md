@@ -7,3 +7,4 @@ My third line
 My fourth line
 My fifth line
 My sixth line
+My seventh line
